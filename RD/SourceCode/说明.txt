@@ -1,0 +1,4 @@
+！！！使用英文路径
+1. 在specify_parameters.m文件中修改参数（input_path output_path等），选择要成像的范围。
+2. 运行extract_data.m文件，提取数据。
+3. 运行RDA.m文件，可得到算法运行结果。
